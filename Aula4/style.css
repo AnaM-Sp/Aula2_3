@@ -1,0 +1,19 @@
+body{
+    background-color: #5ca4a9;
+}
+h4{
+    border: #048a81 dotted 3px;
+}
+li{
+    color: #bbdef0;
+}
+
+.deuses{
+    background-color: lightskyblue; font-size: 25px; color: #048a81;
+}
+#cabecalho{
+background-color: #3fadc0; font-size: 35px; color: #048a81;
+}
+div p{
+    color: #48bfe3;
+}
